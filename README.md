@@ -21,12 +21,11 @@
 ##
 
 <div> 
-    <a href="https://www.youtube.com/channel/UClxnIsBVQE3mlBCjYW-WKrw/featured" target="_blank"> <img src = "https://img.shields.io/badge/YouTube-FF0000? style = for-the-badge & logo = youtube & logoColor = white "target =" _ blank "> </a>
-    <a href="https://www.instagram.com/berzerk_prado/" target="_blank"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
-    <a href="https://www.twitch.tv/omeganochis" target="_blank"> <img src = "https://img.shields.io/badge/Twitch-9146FF?style=for-the- emblema & logo = twitch & logoColor = white "target =" _ blank "> </a>
-    <a href="https://discord.gg/5gC8HVgG" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white "target =" _ blank "> </a> 
+    <a href="https://www.youtube.com/channel/UClxnIsBVQE3mlBCjYW-WKrw/featured" target="_blank"> <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"target =" _ blank "> </a>
+    <a href="https://www.instagram.com/berzerk_prado/" target="_blank"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target =" _ blank "> </a>
+    <a href="https://www.twitch.tv/omeganochis" target="_blank"> <img src = "https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"target =" _ blank "> </a>
+    <a href="https://discord.gg/5gC8HVgG" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"target =" _ blank "> </a> 
     <a href = "mailto:codesfantasma@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
-    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-% 230077B5? Style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a>   
 </div>
 
 ![Snake animation](https://github.com/Cris-Prado/Cris-Prado/blob/output/github-contribution-grid-snake.svg)
