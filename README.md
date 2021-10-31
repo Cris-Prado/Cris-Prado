@@ -15,7 +15,7 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
-    <img align = "right" alt = "Cristiano-pic" height = "150" style = "border-radius: 50px;" src="https://cdn.discordapp.com/attachments/899354411946618973/904448020786065468/Cristiano_dollyfy.png">
+    <img align = "right" alt = "Cristiano-pic" height = "150" style = "border-radius: 50px;" src="https://cdn.discordapp.com/attachments/899354411946618973/904448020786065468/Cristiano_dollyfy.png"> 
 </div>
 
 ##
