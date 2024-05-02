@@ -3,10 +3,12 @@
 ### Sobre Mim
 
 <p style="    font-family: sans-serif;     border: 1px solid white; padding: 15px;border-radius: 5px; background: white; color:black; text-align: justify;
-font-weight: 700; ">Oie sou Cristiano Prado e sou desenvolvedor Front-End junior, atualemnte tenho 22 anos e trabalho freelancer, sou formado em Analise e Desnvolvimento de Sistemas pela unopar (Universidade Norte do Paraná).</p>
+font-weight: 700; ">`Oie sou Cristiano Prado e sou desenvolvedor Front-End junior, atualemnte tenho 22 anos e trabalho freelancer, sou formado em Analise e Desnvolvimento de Sistemas pela unopar (Universidade Norte do Paraná).`</p>
 
 
 ### Redes
+
+
 
 
 
