@@ -1,17 +1,9 @@
 # Cristiano Prado
 
 ### Sobre Mim
-
 #### Oie sou Cristiano Prado e sou desenvolvedor Front-End junior, atualemnte tenho 22 anos e trabalho freelancer, sou formado em Analise e Desnvolvimento de Sistemas pela unopar (Universidade Norte do Paraná).
 
-
-### Redes
-
-
-
-
-
-
+### Redes Sociais
   ##
  
 <div> 
