@@ -4,8 +4,6 @@
 > Oie sou Cristiano Prado e sempre gostei da area de programação, por isso desde o ensino medio, sempre procurei coisas relacionadas com Lógica de Programação, HTML, CSS, Frameworks e linguagens, aqui é meu github fique avontade para dar uma olhada em meus projetos e minha carreira. 
 ### Redes Sociais
 
-
-
   ##
  
 <div> 
